@@ -8,7 +8,10 @@
 The contract allows users to list their skills, earn tokens by providing their services, and use these tokens to gain access to the skills of others. The aim is to create a decentralized, peer-to-peer marketplace for knowledge sharing, learning, and skill trading.
 
 ## Contract Address
-0x755D76Fe33c3a93aB34dD70465dcb563241b0842
+
+0x755D76Fe33c3a93aB34dD70465dcb563241b084
+
+
 
 
 ## Project Vision
