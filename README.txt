@@ -10,6 +10,7 @@ The contract allows users to list their skills, earn tokens by providing their s
 ## Contract Address
 0x755D76Fe33c3a93aB34dD70465dcb563241b0842
 
+
 ## Project Vision
 
 The vision behind **Skill Swapping Communities with Tokens** is to create a fair and decentralized platform where people can easily exchange their skills and expertise with others. By leveraging blockchain technology, the platform enables:
